@@ -1,6 +1,3 @@
-![C](https://img.shields.io/badge/language-C-blue.svg) ![CLI](https://img.shields.io/badge/type-Console-lightgrey.svg)
-
-
 Projet C – Supémon (CLI Pokémon Game)
 
 Contexte
